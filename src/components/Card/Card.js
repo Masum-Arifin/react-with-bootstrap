@@ -1,14 +1,14 @@
-// import React from "react";
+import React from "react";
 
-// const Card = (props) => {
-//     // const  =props.product;
-//   return (
-//     <div className="card">
-//    <div>
+const Card = (props) => {
+    // const  =props.product;
+  return (
+    <div className="card">
+   <div>
 
-//       </div> 
-//     </div>
-//   );
-// };
+      </div> 
+    </div>
+  );
+};
 
-// export default Card;
+export default Card;
